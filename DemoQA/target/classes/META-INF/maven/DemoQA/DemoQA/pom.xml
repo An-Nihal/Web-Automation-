@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>DemoQA</groupId>
+  <artifactId>DemoQA</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>DemoQA</name>
+  <description>This Project is to automate different web elements in demoqa.com</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.seleniumhq.selenium</groupId>
+  		<artifactId>selenium-java</artifactId>
+  		<version>4.8.3</version>
+  	</dependency>
+  </dependencies>
+</project>
