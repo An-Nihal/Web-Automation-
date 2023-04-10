@@ -2,12 +2,9 @@ package demoqa_test;
 
 
 
-import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 import demoqa_pages.WebTable_Pages;
 
@@ -17,7 +14,6 @@ public class WebTable_Test {
 	public static void main(String[] args) {
 		System.setProperty("webdriver.edge.driver", ".\\Drivers\\msedgedriver.exe");
 		WebDriver driver = new EdgeDriver();
-		WebDriverWait wait = new WebDriverWait(driver, 5);
 		driver.get("https://demoqa.com/webtables");
 		driver.manage().window().maximize();
 		
