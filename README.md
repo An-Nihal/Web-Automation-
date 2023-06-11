@@ -1,7 +1,7 @@
 
 ## Web Automation
 
-Welcome to the Web Automation repository! This repository contains web automation projects for two web applications: DemoQA and Guru99 GTPL Bank Test Site. The automation scripts have been implemented using Selenium WebDriver with Java. This repository serves as a centralized resource for storing and organizing the automation code and related resources.
+Welcome to the Web Automation repository! This repository contains web automation projects for two web applications: [DemoQA](https://demoqa.com/) and [Guru99 GTPL Bank Test Site](https://demo.guru99.com/V1/). The automation scripts have been implemented using Selenium WebDriver with Java. This repository serves as a centralized resource for storing and organizing the automation code and related resources.
 
 
 ## Table of Contents
@@ -17,10 +17,10 @@ Web automation plays a crucial role in automating repetitive tasks, ensuring con
 ## Project Overview
 The Web Automation project utilizes the Selenium WebDriver framework with Java to automate the testing of the DemoQA and Guru99 GTPL Bank Test Site web applications. Selenium WebDriver offers a powerful and flexible toolset for interacting with web elements, performing actions, and validating expected results. By automating these web applications, we can achieve more efficient and reliable testing, reducing manual effort and potential human errors.
 ## Web Applications
-### DemoQA
+### [DemoQA](https://demoqa.com/)
 The DemoQA web application is a practice site that offers a range of functionalities and elements to be tested. The automation scripts provided in this repository cover various test scenarios, including form submissions, interactions with elements, navigation, and validations. These scripts demonstrate how to leverage Selenium WebDriver with Java to automate tests on the DemoQA application.
 
-### Guru99 GTPL Bank Test Site
+### [Guru99 GTPL Bank Test Site](https://demo.guru99.com/V1/)
 
 The Guru99 GTPL Bank Test Site is a sample web application specifically designed for automation testing practice. The automation scripts included in this repository demonstrate how to automate common banking scenarios, such as user login, account management, transactions, and balance verification. They illustrate the capabilities of Selenium WebDriver with Java in automating tests on the Guru99 GTPL Bank Test Site.
 
